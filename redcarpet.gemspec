@@ -66,6 +66,6 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_development_dependency "rake", "~> 12.2.1"
-  s.add_development_dependency "rake-compiler", "~> 1.0.3"
+  s.add_development_dependency "rake-compiler", "~> 1.1.0"
   s.add_development_dependency "test-unit", "~> 3.2.3"
 end
