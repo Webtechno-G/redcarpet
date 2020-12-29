@@ -67,5 +67,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "rake", "~> 12.2.1"
   s.add_development_dependency "rake-compiler", "~> 1.0.3"
-  s.add_development_dependency "test-unit", "~> 3.2.3"
+  s.add_development_dependency "test-unit", "~> 3.3.9"
 end
